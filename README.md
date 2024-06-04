@@ -18,9 +18,9 @@ https://catalog.data.gov/dataset/arrest-data-from-2020-to-present
 - Excel - Data cleaning, data analysis, creating reports
 
 
-### Data Cleaning/Preperation
+### Data Cleaning/Preparation
 
-In the initial data preperation phase, I performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting
